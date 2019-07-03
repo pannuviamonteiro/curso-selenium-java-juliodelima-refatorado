@@ -2,7 +2,6 @@ package tasks;
 
 import org.openqa.selenium.WebDriver;
 
-import framework.tools.Report;
 import pageobjects.AddMoreDataAboutMePageObject;
 
 public class AddMoreDataAboutMeTask {
